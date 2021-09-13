@@ -28,11 +28,11 @@ function Navbar() {
                         <MenuIcon />
                     </IconButton>
                     <Typography variant="h6" className={classes.title}>
-                       BorjaScript
+                       Alkemy
                     </Typography>
 
                     <IconButton color="inherit">
-                            <img src={require('../assets/img/branding.jpg')} width="40px" height="40px" className={classes.imagen}/>
+                            <img src={require('../assets/img/logo.jpg')} width="40px" height="40px" className={classes.imagen}/>
                             </IconButton>
                 </Toolbar>
 
